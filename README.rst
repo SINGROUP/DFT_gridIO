@@ -11,7 +11,7 @@ Since the grids used by DFT codes contain a high number of points, the output fi
 Requirements
 ------------
 
-- Python 2.7
+- Python 3.x (originally python 2.7)
 - Cython (`http://cython.org/ <http://cython.org/>`_)
 - NumPy
 
